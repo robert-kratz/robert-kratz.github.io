@@ -1,0 +1,17 @@
+:root {
+    --main-ultradark-color: #22252E;
+    --main-dark-color: #333745;
+    --main-red-color: #fe5f55;
+    --main-white-color: #f7f7ff;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: var(--main-ultradark-color);
+}
+
+h1, h2, p {
+    color: var(--main-white-color);
+}
